@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.superherosightingsspringmvc.dao.SuperHeroSightingsDaoTest
 -------------------------------------------------------------------------------
-Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.957 sec
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.507 sec
